@@ -2,3 +2,4 @@ gymnasium
 matplotlib
 imageio
 numpy
+gymnasium[toy-text]
